@@ -5,6 +5,11 @@
 ## Contents <p id="contents"></p>
 - <a href="#bquestions">Business Questions</a>
   - <a href="#business_impact">Business Impact</a>
+- <a href="#methodology">Methodology</a>
+  - <a href="#data_dictionary">Data Dictionary</a>
+  - <a href="#data_cleaning">Data Cleaning</a>
+  - <a href="#feature_engineering">Feature Engineering</a>
+- <a href="#data_exploration">Data Exploration</a>
 
 ## 📝 Problem Statement <p id="bquestions"></p>
 
@@ -18,3 +23,44 @@ The Project focuses on Customers and Company, you have to analyze the sentiments
 ## 🤔 How it might be helpful for business? <p id="business_impact"></p>
 
 Zomato's recommendation system can help their business by making it easier for customers to find restaurants they like. By suggesting restaurants based on what people have liked before, Zomato can provide a better experience for customers and keep them coming back. This can also help Zomato make more money by connecting customers with restaurants that they might order food from. And, by understanding what customers like, Zomato can stay ahead of other companies and keep being a good choice for people looking for a place to eat.
+
+
+## 💻 Methodology <p id="methodology"></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216816656-e19fa152-81fd-41c1-bd10-3d615385b5f4.png" width="700" height="400"/>
+</p>
+
+## 📝 DATA DICTIONARY <p id="data_dictionary"></p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216816725-d18732b0-c097-42a6-86a9-2fdd903d6030.png">
+</p>
+
+## 🧹 DATA CLEANING <p id="data_cleaning"></p>
+- Check the size and type of the data and converting it into respective type 
+- Null Value Treatment 
+- Text Cleaning in Reviews column 
+
+## ⚒️	FEATURE ENGENEERING <p id="feature_engineering"></p>
+
+Important to increase the amount of information needed to better understand the phenomenon we are trying to model. Feature Engineering is also instrumental in obtaining more variables available for study during Data Analysis, which is the next step in this project.
+
+## 🔎 EXPLORATORY DATA ANALYSIS <p id="data_exploration"></p>
+
+Exploratory Data Analysis (EDA) is a method used to analyze and summarize datasets, in order to gain insights and understand the underlying structure of the data. It typically involves visualizing the data, computing basic statistics and identifying patterns, outliers, and relationships between variables.
+
+### `Average price of different cuisines`
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216817500-734ca30c-886a-4659-ba62-5f17183681e6.png">
+</p> 
+
+- The analysis of the data suggests that Modern Indian Cuisine holds the highest average price among all cuisines, around 2000. Malaysian Cuisine is the second highest, with a slightly lower average price point.
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216817679-5d334a3f-4b13-4908-8f4e-32a5cf333ff7.png">
+</p> 
+
+- We got the highest rated restaurant in each cuisine - for example If you're looking for the best biryani in town, look no further than Paradise Restaurant
