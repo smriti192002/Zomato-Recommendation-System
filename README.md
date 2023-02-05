@@ -10,6 +10,8 @@
   - <a href="#data_cleaning">Data Cleaning</a>
   - <a href="#feature_engineering">Feature Engineering</a>
 - <a href="#data_exploration">Data Exploration</a>
+- <a href="#Building_a_Recommendation_System">Recommendation System</a>
+
 
 ## 📝 Problem Statement <p id="bquestions"></p>
 
@@ -58,9 +60,41 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 
 - The analysis of the data suggests that Modern Indian Cuisine holds the highest average price among all cuisines, around 2000. Malaysian Cuisine is the second highest, with a slightly lower average price point.
 
-
+### `highest rated in specific cuisines`
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216817679-5d334a3f-4b13-4908-8f4e-32a5cf333ff7.png">
 </p> 
 
 - We got the highest rated restaurant in each cuisine - for example If you're looking for the best biryani in town, look no further than Paradise Restaurant
+
+### `Top 10 Cheapest Restaurant`
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216817970-7e3f11eb-6222-4e6c-97ea-dbd8e952acf8.png">
+</p> 
+
+### `Top 10 Expensive Restaurant`
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216818068-9c945005-4311-407b-bdb3-becb4c48cdaa.png">
+</p> 
+
+### `Highly Rated Restaurant`
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216818123-d7f2b228-8953-4ffd-8b6e-07434681caef.png" width="700" height="500"/>
+</p> 
+
+- if you are looking in highly rated restaurants in Hyderabad then one can go for Absolute Barbecues, B-Dubs or 3B's restaurant
+
+### `Word Cloud`
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216818363-14f166a3-cb5b-426a-87c6-225a09ba8194.png"
+</p> 
+
+
+## Recommendation System <p id="Building_a_Recommendation_System"></p>
+
+### `Building a Recommender System`
+<p align="center">
+<img src="https://user-images.githubusercontent.com/88886118/216818623-1b7fbc5d-3af4-4ad3-8772-4e6dc32e9490.png"
+</p> 
+
