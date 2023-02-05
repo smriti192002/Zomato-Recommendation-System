@@ -10,7 +10,7 @@
   - <a href="#data_cleaning">Data Cleaning</a>
   - <a href="#feature_engineering">Feature Engineering</a>
 - <a href="#data_exploration">Data Exploration</a>
-- <a href="#Building_a_Recommendation_System">Recommendation System</a>
+- <a href="#Recommendation_System">Recommendation System</a>
 
 
 ## 📝 Problem Statement <p id="bquestions"></p>
@@ -91,9 +91,10 @@ Exploratory Data Analysis (EDA) is a method used to analyze and summarize datase
 </p> 
 
 
-## Recommendation System <p id="Building_a_Recommendation_System"></p>
+## Recommendation_System <p id="Recommendation_System"></p>
 
 ### `Building a Recommender System`
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/88886118/216818623-1b7fbc5d-3af4-4ad3-8772-4e6dc32e9490.png"
 </p> 
